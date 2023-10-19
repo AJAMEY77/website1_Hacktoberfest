@@ -10,7 +10,7 @@ This project is a purely front-end project.These static webpage created using HT
 Take a look at the : https://ajamey77.github.io/website1_Hacktoberfest/
 
 
-![home_page](https://ibb.co/PrVg6tY)
+![home_page](https://imageupload.io/sJFJfoWaeCp2oyW)
 
 ## Music Website, a HacktoberFest Project for Beginners 🕶️
 Whether you are a coder 👨🏾‍💻 or non-coder 👩‍🎨, newbie 👶 or more experienced 👴, your contribution is welcome!
